@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="BackDark">#6A5ACD</color>
+    <color name="ButtonDark">#A8E4A0</color>
+    <color name="BackLight">#FFB841</color>
+    <color name="ButtomLight">#900020</color>
+
+    <attr name="Background" format="color" />
+    <attr name="Button" format="color" />
+
+
+</resources>
